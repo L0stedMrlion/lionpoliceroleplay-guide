@@ -65,9 +65,6 @@ const config: DocsThemeConfig = {
   docsRepositoryBase: 'https://github.com/L0stedMrlion/lionpoliceroleplay-guide',
   useNextSeoProps: useNextSeoProps,
   head: useHead,
-  sidebar: {
-    defaultMenuCollapseLevel: 1,
-  },
   footer: {
     text: '🦁 Lion Police Roleplay',
   },
